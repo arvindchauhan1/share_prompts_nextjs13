@@ -1,3 +1,8 @@
+// We can define Metadata in two ways: Static and Dynamic.(for seo)
+// 1. Static Metadata
+// 2. Dynamic Metadata
+
+
 import Image from 'next/image'
 
 export default function Home() {
